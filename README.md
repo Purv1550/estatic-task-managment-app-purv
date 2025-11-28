@@ -1,4 +1,4 @@
-<img width="1918" height="838" alt="Undo" src="https://github.com/user-attachments/assets/94822be2-0ca7-4189-9451-88f2d9fcf517" /># Task Management App
+# Task Management App
 
 A full-stack web application for managing tasks, built with React and Node.js.
 
