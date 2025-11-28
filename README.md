@@ -1,4 +1,4 @@
-# Task Management App
+<img width="1918" height="838" alt="Undo" src="https://github.com/user-attachments/assets/94822be2-0ca7-4189-9451-88f2d9fcf517" /># Task Management App
 
 A full-stack web application for managing tasks, built with React and Node.js.
 
@@ -26,8 +26,12 @@ A full-stack web application for managing tasks, built with React and Node.js.
 
 ## Getting Started
 
-### Prerequisites
-- Node.js installed on your machine.
+### Screen-Shots
+<img width="1911" height="906" alt="Login" src="https://github.com/user-attachments/assets/98b39ff2-9dab-4e89-b12d-9214777427a1" />
+<img width="1915" height="682" alt="My_Task" src="https://github.com/user-attachments/assets/4a8ea945-1044-46af-aa3e-dba9c60c8e7c" />
+<img width="1908" height="905" alt="Add_Task" src="https://github.com/user-attachments/assets/c915288f-ebb8-4bb8-9bd4-9c20831182c0" />
+<img width="1916" height="906" alt="Update_Task" src="https://github.com/user-attachments/assets/7e6a2fa6-4448-4896-a28f-c67bce2d758e" />
+<img width="1918" height="838" alt="Undo" src="https://github.com/user-attachments/assets/0c0d87f9-5983-45eb-a919-ddc342f1c824" />
 
 ### Installation
 
